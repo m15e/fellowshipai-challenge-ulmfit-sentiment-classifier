@@ -10,7 +10,7 @@ Howard and Ruder demonstrated that transfer learning, which had previously only 
 
 <strong>Classifying the sentiment of tweets</strong>
 
-This notebook is a documented attempt at creating an ULMFiT model that can correctly classify the sentiment of tweets from from the [Twitter US Airline Sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). The data consists of 14640 labeled tweets directed at six major US airline companies (Virgin America, United, Southwest, Delta, US Airways and American Airlines). We will train a model to identify whether the tweets are positive, neutral or negative. 
+This is a documented attempt at creating an ULMFiT model that can correctly classify the sentiment of tweets from from the [Twitter US Airline Sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). The data consists of 14640 labeled tweets directed at six major US airline companies (Virgin America, United, Southwest, Delta, US Airways and American Airlines). We will train a model to identify whether the tweets are positive, neutral or negative. 
 
 The Twitter US Airline Sentiment dataset is available [here](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
